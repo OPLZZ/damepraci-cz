@@ -6,7 +6,7 @@ This is temporary landing page for upcoming application domain
 
 ##Backend
 There is a simple "Comming soon" widget from [LaunchRock](http://launchrock.com) with subscription form.
-Backend is Github page extended with more features from [Jekyll.rb](http://jekyllrb.rb/) like separate markdown pages.
+Backend is Github page extended with more features from [Jekyllrb.com](http://jekyllrb.com/) like separate markdown pages.
 
 ##Analytics
 Site also includes all traffic analytics which will be used in final app.
